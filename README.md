@@ -11,11 +11,13 @@ Free Windows Recovery Tool built with Python and CustomTkinter.
 - Modern UI
 - Fast Scan
 
+## SCREENSHOTS
+![Dashboard](screenshots/Screenshot.jpg)
+
 ## Installation
 
 ```bash
 pip install -r requirements.txt
 
 
-## SCREENSHOTS
-![Dashboard](screenshots/Screenshot.jpg)
+
