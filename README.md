@@ -20,12 +20,6 @@ pip install -r requirements.txt
 
 ### Main Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Screenshot.jpg)
 
-### Recovery Type
 
-![Recovery](screenshots/recovery-type.png)
-
-### Scan Status
-
-![Scan](screenshots/scan.png)
