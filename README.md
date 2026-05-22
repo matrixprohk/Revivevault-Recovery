@@ -14,10 +14,16 @@ Free Windows Recovery Tool built with Python and CustomTkinter.
 ## SCREENSHOTS
 ![Dashboard](screenshots/Screenshot.jpg)
 
+## Author 
+Tricknology YouTube
+
+
 ## Installation
 
 ```bash
 pip install -r requirements.txt
+
+
 
 
 
