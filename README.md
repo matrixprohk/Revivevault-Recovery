@@ -20,6 +20,6 @@ pip install -r requirements.txt
 
 ### Main Dashboard
 
-![Dashboard](screenshots/Screenshot.jpg)
+![Dashboard](screenshots/Screenshot%202025-07-28.png)
 
 
